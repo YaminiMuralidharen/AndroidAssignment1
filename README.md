@@ -1,6 +1,8 @@
-# AndroidAssignment1
-Android-Passing data via Intents
-Assignment 1 To increment the on pause counter when moving between activities
+
+Android : Passing data via Intents
+Assignment 1 
+
+To increment the on pause counter when moving between activities
 
 1.	When the activity is first created,the thread count is 0
 
